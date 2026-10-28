@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Laboratorio - Solicitud de Computadores",
+  "description": "Sistema interactivo de solicitud, monitoreo de disponibilidad y devolución de computadores para estudiantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
