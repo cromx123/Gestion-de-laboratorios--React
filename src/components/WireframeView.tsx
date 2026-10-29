@@ -84,7 +84,7 @@ export const WireframeView: React.FC<WireframeViewProps> = ({
               onClick={() => onGoToKiosk('login')}
               className="text-[11px] font-bold text-neutral-600 hover:text-neutral-900 underline cursor-pointer"
             >
-              Abrir Pantalla 1 en Kiosco
+              Abrir Pantalla 1
             </button>
           </div>
         </div>
@@ -168,7 +168,7 @@ export const WireframeView: React.FC<WireframeViewProps> = ({
               onClick={() => onGoToKiosk('computers')}
               className="text-[11px] font-bold text-neutral-600 hover:text-neutral-900 underline cursor-pointer"
             >
-              Abrir Pantalla 2 en Kiosco
+              Abrir Pantalla 2
             </button>
           </div>
         </div>
